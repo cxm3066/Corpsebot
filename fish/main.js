@@ -7,8 +7,7 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-//const fish = require('./fish.json');
-var fs = require('fs');
+const fish = require('./fish.json');
 
 const embed = new Discord.MessageEmbed()
 	.setColor('#0099ff')
@@ -30,7 +29,7 @@ const embed = new Discord.MessageEmbed()
 
 client.on('ready', () => {
     console.log('I am ready!');
-    console.log(JSON.parse(fs.readFileSync('fish/fish.json', 'utf8')).length);
+    console.log(fish);
 });
 
 //Processor for all the messages
