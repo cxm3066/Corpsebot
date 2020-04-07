@@ -41,4 +41,4 @@ client.on('message', message => {
 });
 
 //DO NOT FORGET TO REMOVE LOGIN CODE BEFORE UPLOAD
-client.login('MzgwNTA5NDcwMTgwMjQ1NTA1.Xoy7ug.rcipWu4aolBz_SPIXjqrsOa8wkQ');
+client.login('na');
