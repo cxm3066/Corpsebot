@@ -1,5 +1,5 @@
 # Corpsebot
-A simple bot make for hosting the game "Corpse" on discord servers.
+A discord bot for moderating a collabrative comic game.
 
-#Depentancies
+# Dependancies
 Discord.js is the only requirement
