@@ -1,0 +1,15 @@
+{
+    "fish": [
+        {
+            "name": "Bitterling",
+            "image": "icons\\Bitterling_NH_Icon.png",
+            "catch": "I caught a bitterling! It's mad at me, but only a little.",
+            "description": "Bitterlings hide their eggs inside large bivalves—like clams—where the young can stay safe until grown. The bitterling isn't being sneaky. No, their young help keep the bivalve healthy by eating invading parasites! It's a wonderful bit of evolutionary deal making, don't you think? Each one keeping the other safe... Though eating parasites does not sound like a happy childhood... Is that why the fish is so bitter?",
+            "price": 900,
+            "size": 11,
+            "time": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+            "months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        }
+        
+    ]
+}

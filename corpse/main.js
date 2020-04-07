@@ -1,4 +1,3 @@
-
 /*
 * Discord Corpse bot
 * By Connor
