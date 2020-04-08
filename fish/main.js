@@ -51,4 +51,4 @@ function fishSize(fish) {
 }
 
 //DO NOT FORGET TO REMOVE LOGIN CODE BEFORE UPLOAD
-client.login('MzgwNTA5NDcwMTgwMjQ1NTA1.Xo0E0A.r7B1kncdTCPOr8riBbbL0XoIjdk');
+client.login('na');
